@@ -23,7 +23,15 @@ tr {
 }
 
 .dem {
-  color : green;
+  color : blue;
+}
+
+.rep {
+  color : red;
+}
+
+.lib {
+  color : gold;
 }
 
 tr.heading {
